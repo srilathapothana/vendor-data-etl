@@ -1,0 +1,11 @@
+symbol,tradeDate,price,currency,vendor
+brent,2025-01-02,76.45,usd,VendorA
+wti,2025-01-02,73.10,USD,VendorA
+ng,2025-01-02,3.62,usd,VendorB
+gold,2025-01-02,2658.30,USD,VendorB
+,2025-01-02,10.00,USD,VendorA
+brent,2025-01-03,-5.00,USD,VendorA
+wti,not-a-date,72.80,USD,VendorA
+ng,2025-01-03,abc,USD,VendorB
+gold,2025-01-03,2671.90,usd,VendorB
+brent,2025-01-03,77.02,usd,VendorA
